@@ -6,7 +6,7 @@
 
 # List the things you added for points
 More than 8 knots: Knots start on Lines 44,49,57,65,88,95,100,121,134,173,178,188,205,214,224 
- [+2]
+[+2]
 
 Create at least one major choice that the player can make:
 Lines 76-85
